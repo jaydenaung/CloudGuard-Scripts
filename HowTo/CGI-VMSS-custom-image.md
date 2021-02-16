@@ -62,7 +62,7 @@ Now you should see the version has been updated to the specific version that you
 6. Lastly, manually scale up a new gateway in VMSS to test out if it is indeed spinning up gateways from the particular image that you’ve updated in the configuration. Specify the number of total VMs with ``` ---new-capacity``` flag. 
 
 ```bash
-az vmss scale --name cloudguardvmss --new-capacity 3 --resource-group cloudguardvmss
+az vmss scale --name cloudguardvmss --new-capacity 2 --resource-group cloudguardvmss
 ``` 
 
 Once the new gateway is up and part of the VMSS,  execute the following to compare the versions of existing 
@@ -77,6 +77,8 @@ You should see similar out put like this:
 latest
 8040.900294.0801
 ```
+
+I’ve two instances in my VMSS group, and the first version is of the latest image version (default) and the second one is the version that we’ve just updated. 
 
 Now your CloudGuard VMSS has been configured to spin up CloudGuard gateways from a specific image version. 
 
