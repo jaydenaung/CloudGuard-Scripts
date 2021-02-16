@@ -1,6 +1,6 @@
 # Useful Scripts and Tutorials for Check Point CloudGuard
 
-Just to a repo to share some of the useful scripts I've used and tutorials. I'll keep updating this repo as I come across new use cases.
+Just a repo to share some of the useful scripts I've used and tutorials. I'll keep updating this repo as I come across new use cases.
 
 ## Scripts 
 1. [autoprov_cfg_aws.sh](scripts/autoprov_cfg_aws.sh) - CME initialization script for AWS
