@@ -1,0 +1,1374 @@
+[
+  {
+    "offer": "check-point-cg-r8020-blink",
+    "publisher": "checkpoint",
+    "sku": "mgmt-5",
+    "urn": "checkpoint:check-point-cg-r8020-blink:mgmt-5:8020.900101.0357",
+    "version": "8020.900101.0357"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink",
+    "publisher": "checkpoint",
+    "sku": "mgmt-byol",
+    "urn": "checkpoint:check-point-cg-r8020-blink:mgmt-byol:8020.900101.0357",
+    "version": "8020.900101.0357"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink",
+    "publisher": "checkpoint",
+    "sku": "mgmt-byol",
+    "urn": "checkpoint:check-point-cg-r8020-blink:mgmt-byol:8020.900101.0436",
+    "version": "8020.900101.0436"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink",
+    "publisher": "checkpoint",
+    "sku": "mgmt-byol",
+    "urn": "checkpoint:check-point-cg-r8020-blink:mgmt-byol:8020.900101.0450",
+    "version": "8020.900101.0450"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-cg-r8020-blink:sg-byol:8020.90005.0379",
+    "version": "8020.90005.0379"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-cg-r8020-blink:sg-byol:8020.90005.0436",
+    "version": "8020.90005.0436"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-cg-r8020-blink:sg-byol:8020.90005.0453",
+    "version": "8020.90005.0453"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp",
+    "urn": "checkpoint:check-point-cg-r8020-blink:sg-ngtp:8020.90005.0379",
+    "version": "8020.90005.0379"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp",
+    "urn": "checkpoint:check-point-cg-r8020-blink:sg-ngtp:8020.90005.0436",
+    "version": "8020.90005.0436"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp",
+    "urn": "checkpoint:check-point-cg-r8020-blink:sg-ngtp:8020.90005.0453",
+    "version": "8020.90005.0453"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx",
+    "urn": "checkpoint:check-point-cg-r8020-blink:sg-ngtx:8020.90005.0379",
+    "version": "8020.90005.0379"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx",
+    "urn": "checkpoint:check-point-cg-r8020-blink:sg-ngtx:8020.90005.0436",
+    "version": "8020.90005.0436"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx",
+    "urn": "checkpoint:check-point-cg-r8020-blink:sg-ngtx:8020.90005.0453",
+    "version": "8020.90005.0453"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "mgmt-25",
+    "urn": "checkpoint:check-point-cg-r8020-blink-v2:mgmt-25:8020.900101.0450",
+    "version": "8020.900101.0450"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "mgmt-5",
+    "urn": "checkpoint:check-point-cg-r8020-blink-v2:mgmt-5:8020.900101.0356",
+    "version": "8020.900101.0356"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "mgmt-5",
+    "urn": "checkpoint:check-point-cg-r8020-blink-v2:mgmt-5:8020.900101.0419",
+    "version": "8020.900101.0419"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "mgmt-byol",
+    "urn": "checkpoint:check-point-cg-r8020-blink-v2:mgmt-byol:8020.900101.0356",
+    "version": "8020.900101.0356"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "mgmt-byol",
+    "urn": "checkpoint:check-point-cg-r8020-blink-v2:mgmt-byol:8020.900101.0419",
+    "version": "8020.900101.0419"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "mgmt-byol",
+    "urn": "checkpoint:check-point-cg-r8020-blink-v2:mgmt-byol:8020.900101.0436",
+    "version": "8020.900101.0436"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "mgmt-byol",
+    "urn": "checkpoint:check-point-cg-r8020-blink-v2:mgmt-byol:8020.900101.0450",
+    "version": "8020.900101.0450"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-cg-r8020-blink-v2:sg-byol:8020.90005.0378",
+    "version": "8020.90005.0378"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-cg-r8020-blink-v2:sg-byol:8020.90005.0436",
+    "version": "8020.90005.0436"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-cg-r8020-blink-v2:sg-byol:8020.90005.0453",
+    "version": "8020.90005.0453"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-cg-r8020-blink-v2:sg-byol:8020.90005.0469",
+    "version": "8020.90005.0469"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-cg-r8020-blink-v2:sg-byol:8020.90005.0492",
+    "version": "8020.90005.0492"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-cg-r8020-blink-v2:sg-byol:8020.90005.0521",
+    "version": "8020.90005.0521"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-cg-r8020-blink-v2:sg-byol:8020.90005.0558",
+    "version": "8020.90005.0558"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-cg-r8020-blink-v2:sg-byol:8020.90005.0563",
+    "version": "8020.90005.0563"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp",
+    "urn": "checkpoint:check-point-cg-r8020-blink-v2:sg-ngtp:8020.90005.0378",
+    "version": "8020.90005.0378"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp",
+    "urn": "checkpoint:check-point-cg-r8020-blink-v2:sg-ngtp:8020.90005.0436",
+    "version": "8020.90005.0436"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp",
+    "urn": "checkpoint:check-point-cg-r8020-blink-v2:sg-ngtp:8020.90005.0453",
+    "version": "8020.90005.0453"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp",
+    "urn": "checkpoint:check-point-cg-r8020-blink-v2:sg-ngtp:8020.90005.0469",
+    "version": "8020.90005.0469"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp",
+    "urn": "checkpoint:check-point-cg-r8020-blink-v2:sg-ngtp:8020.90005.0492",
+    "version": "8020.90005.0492"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp",
+    "urn": "checkpoint:check-point-cg-r8020-blink-v2:sg-ngtp:8020.90005.0521",
+    "version": "8020.90005.0521"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp",
+    "urn": "checkpoint:check-point-cg-r8020-blink-v2:sg-ngtp:8020.90005.0558",
+    "version": "8020.90005.0558"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp",
+    "urn": "checkpoint:check-point-cg-r8020-blink-v2:sg-ngtp:8020.90005.0563",
+    "version": "8020.90005.0563"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx",
+    "urn": "checkpoint:check-point-cg-r8020-blink-v2:sg-ngtx:8020.90005.0378",
+    "version": "8020.90005.0378"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx",
+    "urn": "checkpoint:check-point-cg-r8020-blink-v2:sg-ngtx:8020.90005.0436",
+    "version": "8020.90005.0436"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx",
+    "urn": "checkpoint:check-point-cg-r8020-blink-v2:sg-ngtx:8020.90005.0453",
+    "version": "8020.90005.0453"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx",
+    "urn": "checkpoint:check-point-cg-r8020-blink-v2:sg-ngtx:8020.90005.0469",
+    "version": "8020.90005.0469"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx",
+    "urn": "checkpoint:check-point-cg-r8020-blink-v2:sg-ngtx:8020.90005.0492",
+    "version": "8020.90005.0492"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx",
+    "urn": "checkpoint:check-point-cg-r8020-blink-v2:sg-ngtx:8020.90005.0521",
+    "version": "8020.90005.0521"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx",
+    "urn": "checkpoint:check-point-cg-r8020-blink-v2:sg-ngtx:8020.90005.0558",
+    "version": "8020.90005.0558"
+  },
+  {
+    "offer": "check-point-cg-r8020-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx",
+    "urn": "checkpoint:check-point-cg-r8020-blink-v2:sg-ngtx:8020.90005.0563",
+    "version": "8020.90005.0563"
+  },
+  {
+    "offer": "check-point-cg-r8030",
+    "publisher": "checkpoint",
+    "sku": "mgmt-25",
+    "urn": "checkpoint:check-point-cg-r8030:mgmt-25:8030.900200.0523",
+    "version": "8030.900200.0523"
+  },
+  {
+    "offer": "check-point-cg-r8030",
+    "publisher": "checkpoint",
+    "sku": "mgmt-25",
+    "urn": "checkpoint:check-point-cg-r8030:mgmt-25:8030.900200.0590",
+    "version": "8030.900200.0590"
+  },
+  {
+    "offer": "check-point-cg-r8030",
+    "publisher": "checkpoint",
+    "sku": "mgmt-25",
+    "urn": "checkpoint:check-point-cg-r8030:mgmt-25:8030.900200.0779",
+    "version": "8030.900200.0779"
+  },
+  {
+    "offer": "check-point-cg-r8030",
+    "publisher": "checkpoint",
+    "sku": "mgmt-byol",
+    "urn": "checkpoint:check-point-cg-r8030:mgmt-byol:8030.900200.0523",
+    "version": "8030.900200.0523"
+  },
+  {
+    "offer": "check-point-cg-r8030",
+    "publisher": "checkpoint",
+    "sku": "mgmt-byol",
+    "urn": "checkpoint:check-point-cg-r8030:mgmt-byol:8030.900200.0590",
+    "version": "8030.900200.0590"
+  },
+  {
+    "offer": "check-point-cg-r8030",
+    "publisher": "checkpoint",
+    "sku": "mgmt-byol",
+    "urn": "checkpoint:check-point-cg-r8030:mgmt-byol:8030.900200.0779",
+    "version": "8030.900200.0779"
+  },
+  {
+    "offer": "check-point-cg-r8030",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-cg-r8030:sg-byol:8030.900273.0525",
+    "version": "8030.900273.0525"
+  },
+  {
+    "offer": "check-point-cg-r8030",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-cg-r8030:sg-byol:8030.900273.0562",
+    "version": "8030.900273.0562"
+  },
+  {
+    "offer": "check-point-cg-r8030",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-cg-r8030:sg-byol:8030.900273.0590",
+    "version": "8030.900273.0590"
+  },
+  {
+    "offer": "check-point-cg-r8030",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-cg-r8030:sg-byol:8030.900273.0614",
+    "version": "8030.900273.0614"
+  },
+  {
+    "offer": "check-point-cg-r8030",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-cg-r8030:sg-byol:8030.900273.0634",
+    "version": "8030.900273.0634"
+  },
+  {
+    "offer": "check-point-cg-r8030",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-cg-r8030:sg-byol:8030.900273.0753",
+    "version": "8030.900273.0753"
+  },
+  {
+    "offer": "check-point-cg-r8030",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-cg-r8030:sg-byol:8030.900273.0801",
+    "version": "8030.900273.0801"
+  },
+  {
+    "offer": "check-point-cg-r8030",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-cg-r8030:sg-byol:8030.900273.645",
+    "version": "8030.900273.645"
+  },
+  {
+    "offer": "check-point-cg-r8030",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp",
+    "urn": "checkpoint:check-point-cg-r8030:sg-ngtp:8030.900273.0562",
+    "version": "8030.900273.0562"
+  },
+  {
+    "offer": "check-point-cg-r8030",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp",
+    "urn": "checkpoint:check-point-cg-r8030:sg-ngtp:8030.900273.0590",
+    "version": "8030.900273.0590"
+  },
+  {
+    "offer": "check-point-cg-r8030",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp-v2",
+    "urn": "checkpoint:check-point-cg-r8030:sg-ngtp-v2:8030.900273.0562",
+    "version": "8030.900273.0562"
+  },
+  {
+    "offer": "check-point-cg-r8030",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp-v2",
+    "urn": "checkpoint:check-point-cg-r8030:sg-ngtp-v2:8030.900273.0590",
+    "version": "8030.900273.0590"
+  },
+  {
+    "offer": "check-point-cg-r8030",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp-v2",
+    "urn": "checkpoint:check-point-cg-r8030:sg-ngtp-v2:8030.900273.0614",
+    "version": "8030.900273.0614"
+  },
+  {
+    "offer": "check-point-cg-r8030",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp-v2",
+    "urn": "checkpoint:check-point-cg-r8030:sg-ngtp-v2:8030.900273.0634",
+    "version": "8030.900273.0634"
+  },
+  {
+    "offer": "check-point-cg-r8030",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp-v2",
+    "urn": "checkpoint:check-point-cg-r8030:sg-ngtp-v2:8030.900273.0753",
+    "version": "8030.900273.0753"
+  },
+  {
+    "offer": "check-point-cg-r8030",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp-v2",
+    "urn": "checkpoint:check-point-cg-r8030:sg-ngtp-v2:8030.900273.0801",
+    "version": "8030.900273.0801"
+  },
+  {
+    "offer": "check-point-cg-r8030",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp-v2",
+    "urn": "checkpoint:check-point-cg-r8030:sg-ngtp-v2:8030.900273.645",
+    "version": "8030.900273.645"
+  },
+  {
+    "offer": "check-point-cg-r8030",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx",
+    "urn": "checkpoint:check-point-cg-r8030:sg-ngtx:8030.900273.0562",
+    "version": "8030.900273.0562"
+  },
+  {
+    "offer": "check-point-cg-r8030",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx",
+    "urn": "checkpoint:check-point-cg-r8030:sg-ngtx:8030.900273.0590",
+    "version": "8030.900273.0590"
+  },
+  {
+    "offer": "check-point-cg-r8030",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx-v2",
+    "urn": "checkpoint:check-point-cg-r8030:sg-ngtx-v2:8030.900273.0562",
+    "version": "8030.900273.0562"
+  },
+  {
+    "offer": "check-point-cg-r8030",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx-v2",
+    "urn": "checkpoint:check-point-cg-r8030:sg-ngtx-v2:8030.900273.0590",
+    "version": "8030.900273.0590"
+  },
+  {
+    "offer": "check-point-cg-r8030",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx-v2",
+    "urn": "checkpoint:check-point-cg-r8030:sg-ngtx-v2:8030.900273.0614",
+    "version": "8030.900273.0614"
+  },
+  {
+    "offer": "check-point-cg-r8030",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx-v2",
+    "urn": "checkpoint:check-point-cg-r8030:sg-ngtx-v2:8030.900273.0634",
+    "version": "8030.900273.0634"
+  },
+  {
+    "offer": "check-point-cg-r8030",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx-v2",
+    "urn": "checkpoint:check-point-cg-r8030:sg-ngtx-v2:8030.900273.0753",
+    "version": "8030.900273.0753"
+  },
+  {
+    "offer": "check-point-cg-r8030",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx-v2",
+    "urn": "checkpoint:check-point-cg-r8030:sg-ngtx-v2:8030.900273.0801",
+    "version": "8030.900273.0801"
+  },
+  {
+    "offer": "check-point-cg-r8030",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx-v2",
+    "urn": "checkpoint:check-point-cg-r8030:sg-ngtx-v2:8030.900273.645",
+    "version": "8030.900273.645"
+  },
+  {
+    "offer": "check-point-cg-r8040",
+    "publisher": "checkpoint",
+    "sku": "mgmt-25",
+    "urn": "checkpoint:check-point-cg-r8040:mgmt-25:8040.900294.0586",
+    "version": "8040.900294.0586"
+  },
+  {
+    "offer": "check-point-cg-r8040",
+    "publisher": "checkpoint",
+    "sku": "mgmt-25",
+    "urn": "checkpoint:check-point-cg-r8040:mgmt-25:8040.900294.0752",
+    "version": "8040.900294.0752"
+  },
+  {
+    "offer": "check-point-cg-r8040",
+    "publisher": "checkpoint",
+    "sku": "mgmt-byol",
+    "urn": "checkpoint:check-point-cg-r8040:mgmt-byol:8040.900294.0586",
+    "version": "8040.900294.0586"
+  },
+  {
+    "offer": "check-point-cg-r8040",
+    "publisher": "checkpoint",
+    "sku": "mgmt-byol",
+    "urn": "checkpoint:check-point-cg-r8040:mgmt-byol:8040.900294.0752",
+    "version": "8040.900294.0752"
+  },
+  {
+    "offer": "check-point-cg-r8040",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-cg-r8040:sg-byol:8040.900294.0593",
+    "version": "8040.900294.0593"
+  },
+  {
+    "offer": "check-point-cg-r8040",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-cg-r8040:sg-byol:8040.900294.0640",
+    "version": "8040.900294.0640"
+  },
+  {
+    "offer": "check-point-cg-r8040",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-cg-r8040:sg-byol:8040.900294.0682",
+    "version": "8040.900294.0682"
+  },
+  {
+    "offer": "check-point-cg-r8040",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-cg-r8040:sg-byol:8040.900294.0728",
+    "version": "8040.900294.0728"
+  },
+  {
+    "offer": "check-point-cg-r8040",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-cg-r8040:sg-byol:8040.900294.0801",
+    "version": "8040.900294.0801"
+  },
+  {
+    "offer": "check-point-cg-r8040",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp",
+    "urn": "checkpoint:check-point-cg-r8040:sg-ngtp:8040.900294.0593",
+    "version": "8040.900294.0593"
+  },
+  {
+    "offer": "check-point-cg-r8040",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp",
+    "urn": "checkpoint:check-point-cg-r8040:sg-ngtp:8040.900294.0640",
+    "version": "8040.900294.0640"
+  },
+  {
+    "offer": "check-point-cg-r8040",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp",
+    "urn": "checkpoint:check-point-cg-r8040:sg-ngtp:8040.900294.0682",
+    "version": "8040.900294.0682"
+  },
+  {
+    "offer": "check-point-cg-r8040",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp",
+    "urn": "checkpoint:check-point-cg-r8040:sg-ngtp:8040.900294.0728",
+    "version": "8040.900294.0728"
+  },
+  {
+    "offer": "check-point-cg-r8040",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp",
+    "urn": "checkpoint:check-point-cg-r8040:sg-ngtp:8040.900294.0801",
+    "version": "8040.900294.0801"
+  },
+  {
+    "offer": "check-point-cg-r8040",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx",
+    "urn": "checkpoint:check-point-cg-r8040:sg-ngtx:8040.900294.0593",
+    "version": "8040.900294.0593"
+  },
+  {
+    "offer": "check-point-cg-r8040",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx",
+    "urn": "checkpoint:check-point-cg-r8040:sg-ngtx:8040.900294.0640",
+    "version": "8040.900294.0640"
+  },
+  {
+    "offer": "check-point-cg-r8040",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx",
+    "urn": "checkpoint:check-point-cg-r8040:sg-ngtx:8040.900294.0682",
+    "version": "8040.900294.0682"
+  },
+  {
+    "offer": "check-point-cg-r8040",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx",
+    "urn": "checkpoint:check-point-cg-r8040:sg-ngtx:8040.900294.0728",
+    "version": "8040.900294.0728"
+  },
+  {
+    "offer": "check-point-cg-r8040",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx",
+    "urn": "checkpoint:check-point-cg-r8040:sg-ngtx:8040.900294.0801",
+    "version": "8040.900294.0801"
+  },
+  {
+    "offer": "check-point-cg-r81",
+    "publisher": "checkpoint",
+    "sku": "mgmt-25",
+    "urn": "checkpoint:check-point-cg-r81:mgmt-25:8100.900392.0710",
+    "version": "8100.900392.0710"
+  },
+  {
+    "offer": "check-point-cg-r81",
+    "publisher": "checkpoint",
+    "sku": "mgmt-byol",
+    "urn": "checkpoint:check-point-cg-r81:mgmt-byol:8100.900392.0710",
+    "version": "8100.900392.0710"
+  },
+  {
+    "offer": "check-point-cg-r81",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-cg-r81:sg-byol:8100.900392.0710",
+    "version": "8100.900392.0710"
+  },
+  {
+    "offer": "check-point-cg-r81",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-cg-r81:sg-byol:8100.900392.0729",
+    "version": "8100.900392.0729"
+  },
+  {
+    "offer": "check-point-cg-r81",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-cg-r81:sg-byol:8100.900392.0751",
+    "version": "8100.900392.0751"
+  },
+  {
+    "offer": "check-point-cg-r81",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-cg-r81:sg-byol:8100.900392.0807",
+    "version": "8100.900392.0807"
+  },
+  {
+    "offer": "check-point-cg-r81",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp",
+    "urn": "checkpoint:check-point-cg-r81:sg-ngtp:8100.900392.0710",
+    "version": "8100.900392.0710"
+  },
+  {
+    "offer": "check-point-cg-r81",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp",
+    "urn": "checkpoint:check-point-cg-r81:sg-ngtp:8100.900392.0729",
+    "version": "8100.900392.0729"
+  },
+  {
+    "offer": "check-point-cg-r81",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp",
+    "urn": "checkpoint:check-point-cg-r81:sg-ngtp:8100.900392.0751",
+    "version": "8100.900392.0751"
+  },
+  {
+    "offer": "check-point-cg-r81",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp",
+    "urn": "checkpoint:check-point-cg-r81:sg-ngtp:8100.900392.0807",
+    "version": "8100.900392.0807"
+  },
+  {
+    "offer": "check-point-cg-r81",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx",
+    "urn": "checkpoint:check-point-cg-r81:sg-ngtx:8100.900392.0710",
+    "version": "8100.900392.0710"
+  },
+  {
+    "offer": "check-point-cg-r81",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx",
+    "urn": "checkpoint:check-point-cg-r81:sg-ngtx:8100.900392.0729",
+    "version": "8100.900392.0729"
+  },
+  {
+    "offer": "check-point-cg-r81",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx",
+    "urn": "checkpoint:check-point-cg-r81:sg-ngtx:8100.900392.0751",
+    "version": "8100.900392.0751"
+  },
+  {
+    "offer": "check-point-cg-r81",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx",
+    "urn": "checkpoint:check-point-cg-r81:sg-ngtx:8100.900392.0807",
+    "version": "8100.900392.0807"
+  },
+  {
+    "offer": "check-point-cg-stack-r8030",
+    "publisher": "checkpoint",
+    "sku": "mgmt-25",
+    "urn": "checkpoint:check-point-cg-stack-r8030:mgmt-25:8030.900200.0564",
+    "version": "8030.900200.0564"
+  },
+  {
+    "offer": "check-point-cg-stack-r8030",
+    "publisher": "checkpoint",
+    "sku": "mgmt-byol",
+    "urn": "checkpoint:check-point-cg-stack-r8030:mgmt-byol:8030.900200.0564",
+    "version": "8030.900200.0564"
+  },
+  {
+    "offer": "check-point-cg-stack-r8030",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-cg-stack-r8030:sg-byol:8030.900273.0564",
+    "version": "8030.900273.0564"
+  },
+  {
+    "offer": "check-point-r77-10",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-r77-10:sg-byol:77.30.8053227",
+    "version": "77.30.8053227"
+  },
+  {
+    "offer": "check-point-r77-10",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-r77-10:sg-byol:77.30.8053229",
+    "version": "77.30.8053229"
+  },
+  {
+    "offer": "check-point-r77-10",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-r77-10:sg-byol:77.30.8053230",
+    "version": "77.30.8053230"
+  },
+  {
+    "offer": "check-point-r77-10",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-r77-10:sg-byol:77.30.8056287",
+    "version": "77.30.8056287"
+  },
+  {
+    "offer": "check-point-r77-10",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-r77-10:sg-byol:77.30.8056288",
+    "version": "77.30.8056288"
+  },
+  {
+    "offer": "check-point-r77-10",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-r77-10:sg-byol:77.30.8056289",
+    "version": "77.30.8056289"
+  },
+  {
+    "offer": "check-point-r77-10",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-r77-10:sg-byol:77.30.8057340",
+    "version": "77.30.8057340"
+  },
+  {
+    "offer": "check-point-r77-10",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp",
+    "urn": "checkpoint:check-point-r77-10:sg-ngtp:77.30.8053227",
+    "version": "77.30.8053227"
+  },
+  {
+    "offer": "check-point-r77-10",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp",
+    "urn": "checkpoint:check-point-r77-10:sg-ngtp:77.30.8053229",
+    "version": "77.30.8053229"
+  },
+  {
+    "offer": "check-point-r77-10",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp",
+    "urn": "checkpoint:check-point-r77-10:sg-ngtp:77.30.8053230",
+    "version": "77.30.8053230"
+  },
+  {
+    "offer": "check-point-r77-10",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp",
+    "urn": "checkpoint:check-point-r77-10:sg-ngtp:77.30.8056287",
+    "version": "77.30.8056287"
+  },
+  {
+    "offer": "check-point-r77-10",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp",
+    "urn": "checkpoint:check-point-r77-10:sg-ngtp:77.30.8056288",
+    "version": "77.30.8056288"
+  },
+  {
+    "offer": "check-point-r77-10",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp",
+    "urn": "checkpoint:check-point-r77-10:sg-ngtp:77.30.8056289",
+    "version": "77.30.8056289"
+  },
+  {
+    "offer": "check-point-r77-10",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp",
+    "urn": "checkpoint:check-point-r77-10:sg-ngtp:77.30.8057340",
+    "version": "77.30.8057340"
+  },
+  {
+    "offer": "check-point-vsec-r80",
+    "publisher": "checkpoint",
+    "sku": "mgmt-25",
+    "urn": "checkpoint:check-point-vsec-r80:mgmt-25:8010.90034.0436",
+    "version": "8010.90034.0436"
+  },
+  {
+    "offer": "check-point-vsec-r80",
+    "publisher": "checkpoint",
+    "sku": "mgmt-25",
+    "urn": "checkpoint:check-point-vsec-r80:mgmt-25:8010.90034.0450",
+    "version": "8010.90034.0450"
+  },
+  {
+    "offer": "check-point-vsec-r80",
+    "publisher": "checkpoint",
+    "sku": "mgmt-5",
+    "urn": "checkpoint:check-point-vsec-r80:mgmt-5:8010.90027.0311",
+    "version": "8010.90027.0311"
+  },
+  {
+    "offer": "check-point-vsec-r80",
+    "publisher": "checkpoint",
+    "sku": "mgmt-5",
+    "urn": "checkpoint:check-point-vsec-r80:mgmt-5:8010.90032.0332",
+    "version": "8010.90032.0332"
+  },
+  {
+    "offer": "check-point-vsec-r80",
+    "publisher": "checkpoint",
+    "sku": "mgmt-5",
+    "urn": "checkpoint:check-point-vsec-r80:mgmt-5:8010.90032.03321",
+    "version": "8010.90032.03321"
+  },
+  {
+    "offer": "check-point-vsec-r80",
+    "publisher": "checkpoint",
+    "sku": "mgmt-5",
+    "urn": "checkpoint:check-point-vsec-r80:mgmt-5:8010.90034.0419",
+    "version": "8010.90034.0419"
+  },
+  {
+    "offer": "check-point-vsec-r80",
+    "publisher": "checkpoint",
+    "sku": "mgmt-5",
+    "urn": "checkpoint:check-point-vsec-r80:mgmt-5:8010.90034.0430",
+    "version": "8010.90034.0430"
+  },
+  {
+    "offer": "check-point-vsec-r80",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-vsec-r80:sg-byol:8010.90027.0311",
+    "version": "8010.90027.0311"
+  },
+  {
+    "offer": "check-point-vsec-r80",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-vsec-r80:sg-byol:8010.90032.0332",
+    "version": "8010.90032.0332"
+  },
+  {
+    "offer": "check-point-vsec-r80",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-vsec-r80:sg-byol:8010.90034.0419",
+    "version": "8010.90034.0419"
+  },
+  {
+    "offer": "check-point-vsec-r80",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-vsec-r80:sg-byol:8010.90034.0430",
+    "version": "8010.90034.0430"
+  },
+  {
+    "offer": "check-point-vsec-r80",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-vsec-r80:sg-byol:8010.90034.0436",
+    "version": "8010.90034.0436"
+  },
+  {
+    "offer": "check-point-vsec-r80",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-vsec-r80:sg-byol:8010.90034.0450",
+    "version": "8010.90034.0450"
+  },
+  {
+    "offer": "check-point-vsec-r80",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp",
+    "urn": "checkpoint:check-point-vsec-r80:sg-ngtp:8010.90032.0332",
+    "version": "8010.90032.0332"
+  },
+  {
+    "offer": "check-point-vsec-r80",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp",
+    "urn": "checkpoint:check-point-vsec-r80:sg-ngtp:8010.90034.0430",
+    "version": "8010.90034.0430"
+  },
+  {
+    "offer": "check-point-vsec-r80",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp",
+    "urn": "checkpoint:check-point-vsec-r80:sg-ngtp:8010.90034.0436",
+    "version": "8010.90034.0436"
+  },
+  {
+    "offer": "check-point-vsec-r80",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp",
+    "urn": "checkpoint:check-point-vsec-r80:sg-ngtp:8010.90034.0450",
+    "version": "8010.90034.0450"
+  },
+  {
+    "offer": "check-point-vsec-r80",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp-v2",
+    "urn": "checkpoint:check-point-vsec-r80:sg-ngtp-v2:8010.90027.0311",
+    "version": "8010.90027.0311"
+  },
+  {
+    "offer": "check-point-vsec-r80",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp-v2",
+    "urn": "checkpoint:check-point-vsec-r80:sg-ngtp-v2:8010.90032.0332",
+    "version": "8010.90032.0332"
+  },
+  {
+    "offer": "check-point-vsec-r80",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp-v2",
+    "urn": "checkpoint:check-point-vsec-r80:sg-ngtp-v2:8010.90034.0430",
+    "version": "8010.90034.0430"
+  },
+  {
+    "offer": "check-point-vsec-r80",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp-v2",
+    "urn": "checkpoint:check-point-vsec-r80:sg-ngtp-v2:8010.90034.0436",
+    "version": "8010.90034.0436"
+  },
+  {
+    "offer": "check-point-vsec-r80",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp-v2",
+    "urn": "checkpoint:check-point-vsec-r80:sg-ngtp-v2:8010.90034.0450",
+    "version": "8010.90034.0450"
+  },
+  {
+    "offer": "check-point-vsec-r80",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx",
+    "urn": "checkpoint:check-point-vsec-r80:sg-ngtx:8010.90027.0311",
+    "version": "8010.90027.0311"
+  },
+  {
+    "offer": "check-point-vsec-r80",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx",
+    "urn": "checkpoint:check-point-vsec-r80:sg-ngtx:8010.90032.0332",
+    "version": "8010.90032.0332"
+  },
+  {
+    "offer": "check-point-vsec-r80",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx",
+    "urn": "checkpoint:check-point-vsec-r80:sg-ngtx:8010.90034.0430",
+    "version": "8010.90034.0430"
+  },
+  {
+    "offer": "check-point-vsec-r80",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx",
+    "urn": "checkpoint:check-point-vsec-r80:sg-ngtx:8010.90034.0436",
+    "version": "8010.90034.0436"
+  },
+  {
+    "offer": "check-point-vsec-r80",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx",
+    "urn": "checkpoint:check-point-vsec-r80:sg-ngtx:8010.90034.0450",
+    "version": "8010.90034.0450"
+  },
+  {
+    "offer": "check-point-vsec-r80",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx-private1",
+    "urn": "checkpoint:check-point-vsec-r80:sg-ngtx-private1:8010.90032.0332",
+    "version": "8010.90032.0332"
+  },
+  {
+    "offer": "check-point-vsec-r80",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx-private1",
+    "urn": "checkpoint:check-point-vsec-r80:sg-ngtx-private1:8010.90034.0430",
+    "version": "8010.90034.0430"
+  },
+  {
+    "offer": "check-point-vsec-r80",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx-private1",
+    "urn": "checkpoint:check-point-vsec-r80:sg-ngtx-private1:8010.90034.0436",
+    "version": "8010.90034.0436"
+  },
+  {
+    "offer": "check-point-vsec-r80",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx-private1",
+    "urn": "checkpoint:check-point-vsec-r80:sg-ngtx-private1:8010.90034.0450",
+    "version": "8010.90034.0450"
+  },
+  {
+    "offer": "check-point-vsec-r80-blink",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-vsec-r80-blink:sg-byol:8010.90034.0374",
+    "version": "8010.90034.0374"
+  },
+  {
+    "offer": "check-point-vsec-r80-blink",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-vsec-r80-blink:sg-byol:8010.90034.0429",
+    "version": "8010.90034.0429"
+  },
+  {
+    "offer": "check-point-vsec-r80-blink",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-vsec-r80-blink:sg-byol:8010.90034.0436",
+    "version": "8010.90034.0436"
+  },
+  {
+    "offer": "check-point-vsec-r80-blink",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-vsec-r80-blink:sg-byol:8010.90034.0450",
+    "version": "8010.90034.0450"
+  },
+  {
+    "offer": "check-point-vsec-r80-blink",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp-v2",
+    "urn": "checkpoint:check-point-vsec-r80-blink:sg-ngtp-v2:8010.90034.0374",
+    "version": "8010.90034.0374"
+  },
+  {
+    "offer": "check-point-vsec-r80-blink",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp-v2",
+    "urn": "checkpoint:check-point-vsec-r80-blink:sg-ngtp-v2:8010.90034.0429",
+    "version": "8010.90034.0429"
+  },
+  {
+    "offer": "check-point-vsec-r80-blink",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp-v2",
+    "urn": "checkpoint:check-point-vsec-r80-blink:sg-ngtp-v2:8010.90034.0436",
+    "version": "8010.90034.0436"
+  },
+  {
+    "offer": "check-point-vsec-r80-blink",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp-v2",
+    "urn": "checkpoint:check-point-vsec-r80-blink:sg-ngtp-v2:8010.90034.0450",
+    "version": "8010.90034.0450"
+  },
+  {
+    "offer": "check-point-vsec-r80-blink",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx",
+    "urn": "checkpoint:check-point-vsec-r80-blink:sg-ngtx:8010.90034.0374",
+    "version": "8010.90034.0374"
+  },
+  {
+    "offer": "check-point-vsec-r80-blink",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx",
+    "urn": "checkpoint:check-point-vsec-r80-blink:sg-ngtx:8010.90034.0429",
+    "version": "8010.90034.0429"
+  },
+  {
+    "offer": "check-point-vsec-r80-blink",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx",
+    "urn": "checkpoint:check-point-vsec-r80-blink:sg-ngtx:8010.90034.0436",
+    "version": "8010.90034.0436"
+  },
+  {
+    "offer": "check-point-vsec-r80-blink",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx",
+    "urn": "checkpoint:check-point-vsec-r80-blink:sg-ngtx:8010.90034.0450",
+    "version": "8010.90034.0450"
+  },
+  {
+    "offer": "check-point-vsec-r80-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-vsec-r80-blink-v2:sg-byol:8010.90034.0373",
+    "version": "8010.90034.0373"
+  },
+  {
+    "offer": "check-point-vsec-r80-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-vsec-r80-blink-v2:sg-byol:8010.90034.0414",
+    "version": "8010.90034.0414"
+  },
+  {
+    "offer": "check-point-vsec-r80-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-vsec-r80-blink-v2:sg-byol:8010.90034.0419",
+    "version": "8010.90034.0419"
+  },
+  {
+    "offer": "check-point-vsec-r80-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-vsec-r80-blink-v2:sg-byol:8010.90034.0429",
+    "version": "8010.90034.0429"
+  },
+  {
+    "offer": "check-point-vsec-r80-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-vsec-r80-blink-v2:sg-byol:8010.90034.0436",
+    "version": "8010.90034.0436"
+  },
+  {
+    "offer": "check-point-vsec-r80-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-byol",
+    "urn": "checkpoint:check-point-vsec-r80-blink-v2:sg-byol:8010.90034.0450",
+    "version": "8010.90034.0450"
+  },
+  {
+    "offer": "check-point-vsec-r80-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp-v2",
+    "urn": "checkpoint:check-point-vsec-r80-blink-v2:sg-ngtp-v2:8010.90034.0373",
+    "version": "8010.90034.0373"
+  },
+  {
+    "offer": "check-point-vsec-r80-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp-v2",
+    "urn": "checkpoint:check-point-vsec-r80-blink-v2:sg-ngtp-v2:8010.90034.0414",
+    "version": "8010.90034.0414"
+  },
+  {
+    "offer": "check-point-vsec-r80-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp-v2",
+    "urn": "checkpoint:check-point-vsec-r80-blink-v2:sg-ngtp-v2:8010.90034.0419",
+    "version": "8010.90034.0419"
+  },
+  {
+    "offer": "check-point-vsec-r80-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp-v2",
+    "urn": "checkpoint:check-point-vsec-r80-blink-v2:sg-ngtp-v2:8010.90034.0429",
+    "version": "8010.90034.0429"
+  },
+  {
+    "offer": "check-point-vsec-r80-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp-v2",
+    "urn": "checkpoint:check-point-vsec-r80-blink-v2:sg-ngtp-v2:8010.90034.0436",
+    "version": "8010.90034.0436"
+  },
+  {
+    "offer": "check-point-vsec-r80-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtp-v2",
+    "urn": "checkpoint:check-point-vsec-r80-blink-v2:sg-ngtp-v2:8010.90034.0450",
+    "version": "8010.90034.0450"
+  },
+  {
+    "offer": "check-point-vsec-r80-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx",
+    "urn": "checkpoint:check-point-vsec-r80-blink-v2:sg-ngtx:8010.90034.0373",
+    "version": "8010.90034.0373"
+  },
+  {
+    "offer": "check-point-vsec-r80-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx",
+    "urn": "checkpoint:check-point-vsec-r80-blink-v2:sg-ngtx:8010.90034.0414",
+    "version": "8010.90034.0414"
+  },
+  {
+    "offer": "check-point-vsec-r80-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx",
+    "urn": "checkpoint:check-point-vsec-r80-blink-v2:sg-ngtx:8010.90034.0419",
+    "version": "8010.90034.0419"
+  },
+  {
+    "offer": "check-point-vsec-r80-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx",
+    "urn": "checkpoint:check-point-vsec-r80-blink-v2:sg-ngtx:8010.90034.0429",
+    "version": "8010.90034.0429"
+  },
+  {
+    "offer": "check-point-vsec-r80-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx",
+    "urn": "checkpoint:check-point-vsec-r80-blink-v2:sg-ngtx:8010.90034.0436",
+    "version": "8010.90034.0436"
+  },
+  {
+    "offer": "check-point-vsec-r80-blink-v2",
+    "publisher": "checkpoint",
+    "sku": "sg-ngtx",
+    "urn": "checkpoint:check-point-vsec-r80-blink-v2:sg-ngtx:8010.90034.0450",
+    "version": "8010.90034.0450"
+  },
+  {
+    "offer": "infinity-gw",
+    "publisher": "checkpoint",
+    "sku": "infinity-img",
+    "urn": "checkpoint:infinity-gw:infinity-img:8040.900294.0593",
+    "version": "8040.900294.0593"
+  },
+  {
+    "offer": "infinity-gw",
+    "publisher": "checkpoint",
+    "sku": "infinity-img",
+    "urn": "checkpoint:infinity-gw:infinity-img:8040.900294.0805",
+    "version": "8040.900294.0805"
+  },
+  {
+    "offer": "sg2",
+    "publisher": "checkpoint",
+    "sku": "sg-byol2",
+    "urn": "checkpoint:sg2:sg-byol2:8000.90113.0102",
+    "version": "8000.90113.0102"
+  },
+  {
+    "offer": "sg2",
+    "publisher": "checkpoint",
+    "sku": "sg-byol2",
+    "urn": "checkpoint:sg2:sg-byol2:8000.90113.0110",
+    "version": "8000.90113.0110"
+  },
+  {
+    "offer": "sg2",
+    "publisher": "checkpoint",
+    "sku": "sg-byol2",
+    "urn": "checkpoint:sg2:sg-byol2:8000.90113.0160",
+    "version": "8000.90113.0160"
+  },
+  {
+    "offer": "sg2",
+    "publisher": "checkpoint",
+    "sku": "sg-byol2",
+    "urn": "checkpoint:sg2:sg-byol2:8000.90132.0165",
+    "version": "8000.90132.0165"
+  },
+  {
+    "offer": "sg2",
+    "publisher": "checkpoint",
+    "sku": "sg-byol2",
+    "urn": "checkpoint:sg2:sg-byol2:8000.90132.0166",
+    "version": "8000.90132.0166"
+  },
+  {
+    "offer": "sg2",
+    "publisher": "checkpoint",
+    "sku": "sg-byol2",
+    "urn": "checkpoint:sg2:sg-byol2:8000.90132.0167",
+    "version": "8000.90132.0167"
+  },
+  {
+    "offer": "sg2",
+    "publisher": "checkpoint",
+    "sku": "sg-byol2",
+    "urn": "checkpoint:sg2:sg-byol2:8000.90132.0170",
+    "version": "8000.90132.0170"
+  }
+]
