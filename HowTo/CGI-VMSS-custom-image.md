@@ -1,6 +1,8 @@
 # How to configure VMSS to spin up CGI gateways from a specific image
 
-This tutorial explains how to configure CloudGuard VMSS to spin up new gateways from a particular CGI image (with a particular jhf installed) instead of the “latest version” which is by default. 
+This tutorial explains how to configure CloudGuard VMSS to spin up new gateways from a particular CGI image (with a particular jhf installed) instead of the “latest version” which is by default. Typically, VMSS is configured to use the CGI image tagged as "latest", which is changing all the time as Check Point updates and releases new CGI images every now and then.
+
+In this tutorial we will update an existing VMSS configuration to use a specific image version to spin up new VMs.
 
 1. Execute the following on command line and check the image version of existing VMSS.
 
@@ -24,14 +26,21 @@ You should see similar output with the version being specified as “latest”.
 }
 ``` 
 
-2. Execute the following to update the image to the version you want. In this scenario I’m updating the image version to the version number ```8040.900294.0801``` of “check-point-cg-r8040” offer. 
+It shows that VMSS will always use the image version specified as "latest".
+
+2. Now we're gonna update the version of the image to a specific one that you require. 
+
+Before you update the version, check out [the list of CGI images](json/cgi-azure-images-16022021.json) (as of 16th Feb 2021) on Azure. Please take note that you cannot update the version of an image in VMSS to any version you see in the list. You need to check the “offer” in the list. For example, if your existing VMSS is using the offer “check-point-cg-r8040”, then you can only update the version numbers that are associated with that offer. 
+
+Execute the following to update the image to the version you want. In this scenario I’m updating the image version to the version number ```8040.900294.0801``` of “check-point-cg-r8040” offer. 
 
 ```bash 
 az vmss update --resource-group cloudguardvmss --name cloudguardvmss --set virtualMachineProfile.storageProfile.imageReference.version= 8040.900294.0801
 
 ```
 
-3. If the command is successful, execute the following to check the image version again.
+
+3. If the command is successful, execute the following to check the image version used in VMSS again.
 
 ```bash 
 
@@ -57,15 +66,13 @@ Now you should see the version has been updated to the specific version that you
 ![header image](img/cgi-azure-vmss-instance-image.png) 
 
 
-5. Check [the list of CGI images](json/cgi-azure-images-16022021.json) (as of 16th Feb 2021) on Azure. Please take note that you cannot update the version of an image in VMSS to any version you see in the list. You need to check the “offer” in the list. For example, if your existing VMSS is using the offer “check-point-cg-r8040”, then you can only update the version numbers that are associated with that offer. 
-
-6. Lastly, manually scale up a new gateway in VMSS to test out if it is indeed spinning up gateways from the particular image that you’ve updated in the configuration. Specify the number of total VMs with ``` ---new-capacity``` flag. 
+5. Lastly, manually scale up a new gateway in VMSS to test out if it is indeed spinning up gateways from the particular image that you’ve updated in the configuration. Specify the number of total VMs with ``` ---new-capacity``` flag. 
 
 ```bash
 az vmss scale --name cloudguardvmss --new-capacity 2 --resource-group cloudguardvmss
 ``` 
 
-Once the new gateway is up and part of the VMSS,  execute the following to compare the versions of existing 
+Once the new gateway is up and part of the VMSS,  execute the following to compare the image versions between the initial VM and the new VM that has just been spun up due to manual scale-up.
 
 ```bash
 az vmss list-instances --resource-group cloudguardvmss --name cloudguardvmss | jq -r '.[].storageProfile.imageReference.version'
@@ -78,7 +85,7 @@ latest
 8040.900294.0801
 ```
 
-I’ve two instances in my VMSS group, and the first version is of the latest image version (default) and the second one is the version that we’ve just updated. 
+I’ve two VMs in my VMSS group, and the first version is of the latest image version (default) and the second one is the version that we’ve just updated. 
 
 Now your CloudGuard VMSS has been configured to spin up CloudGuard gateways from a specific image version. 
 
