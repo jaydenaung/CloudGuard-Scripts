@@ -11,4 +11,8 @@ Just a repo to share some of the useful scripts I've used and tutorials. I'll ke
 
 ### Check out HowTos:
 
-1. [How to Configure Azure VMSS to spin up CGI gateways from a specific image.](HowTo/CGI-VMSS-custom-image.md)
+1. [How to Configure Azure VMSS to spin up CloudGuard gateways from a specific image.](HowTo/CGI-VMSS-custom-image.md)
+
+2. How to deploy a Check Point CloudGuard firewall on Azure using ARM templates (YouTube Video)
+
+[![How to deploy a Check Point CloudGuard firewall on Azure using ARM templates](img/tutorial-by-jayden.png)](https://www.youtube.com/watch?v=nqoJsWflbfc)
