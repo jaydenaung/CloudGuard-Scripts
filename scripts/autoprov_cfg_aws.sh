@@ -17,7 +17,8 @@ autoprov_cfg init AWS -mn $mgmt_name -tn $my_tn -otp $my_sic \
 -cn $my_cn \
 -r $region -iam
 
-y | autoprov-cfg set controller AWS -cn $my_cn -sg -slb
+# autoprov-cfg set controller AWS -cn $my_cn -sg -slb
+
 
 #autoprov_cfg set template -tn $my_tn -ips -uf -ab -av -appi -ia -hi
 #autoprov-cfg set template -tn $my_tn -hi
