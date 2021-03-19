@@ -9,6 +9,8 @@ Just a repo to share some of the useful scripts I've used and tutorials. I'll ke
 
 3. [cgi-gcp-setup.sh](scripts/cgi-gcp-setup.sh) - Deploy a CloudGuard FW using a custom image (not listed in the templates)
 
+4. [How to forward CloudGuard logs to CloudWatch via proxy instance](https://github.com/jaydenaung/aws-cloudwatch-proxy-instance-for-cloudguard)
+
 ### Check out HowTos:
 
 1. [How to Configure Azure VMSS to spin up CloudGuard gateways from a specific image.](HowTo/CGI-VMSS-custom-image.md)
