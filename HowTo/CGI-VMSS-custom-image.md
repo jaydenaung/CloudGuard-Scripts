@@ -35,7 +35,7 @@ Before you update the version, check out [the list of CGI images](json/cgi-azure
 Execute the following to update the image to the version you want. In this scenario I’m updating the image version to the version number ```8040.900294.0801``` of “check-point-cg-r8040” offer. 
 
 ```bash 
-az vmss update --resource-group cloudguardvmss --name cloudguardvmss --set virtualMachineProfile.storageProfile.imageReference.version= 8040.900294.0801
+az vmss update --resource-group cloudguardvmss --name cloudguardvmss --set virtualMachineProfile.storageProfile.imageReference.version=8040.900294.0801
 
 ```
 
